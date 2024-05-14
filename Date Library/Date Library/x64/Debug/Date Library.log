@@ -1,0 +1,20 @@
+﻿  Date Library.cpp
+D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library.cpp')
+  
+D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library.cpp')
+  
+D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library.cpp')
+  
+D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library.cpp')
+  
+D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library.cpp')
+  
+D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library.cpp')
+  
+  Date Library.vcxproj -> D:\ps\Roadmap ProgrammingAdvices\10 - OOP as it Should Be (Concepts)\Projects\Date Library\x64\Debug\Date Library.exe
